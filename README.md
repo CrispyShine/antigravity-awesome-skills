@@ -564,6 +564,11 @@ We officially thank the following contributors for their help in making this rep
 - [@tanveer-farooq](https://github.com/tanveer-farooq)
 - [@emanoelCarvalho](https://github.com/emanoelCarvalho)
 - [@unitedideas](https://github.com/unitedideas)
+- [@edudeftones-cloud](https://github.com/edudeftones-cloud)
+- [@Evozim](https://github.com/Evozim)
+- [@globalchatapp](https://github.com/globalchatapp)
+- [@Imasaikiran](https://github.com/Imasaikiran)
+- [@justmiroslav](https://github.com/justmiroslav)
 
 ## Star History
 
